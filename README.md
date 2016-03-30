@@ -26,11 +26,11 @@ Installation
 
   2. Change current Directory to the id3-0.2 directory :
 
-        cd id3-0.2
+        cd php-id3/id3-0.2
 
   3. Install Everything :
 
-        phpize && ./configure && make && make test && make install
+        sudo phpize && ./configure && make && make test && make install
 
   4. Add 'id3.so' to the end of your 'php.ini' file :
 
