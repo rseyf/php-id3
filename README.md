@@ -74,4 +74,7 @@ Now you can use php-id3 functions inside of your code .
 
 See PHP-id3 Functions: http://php.net/manual/en/ref.id3.php
 
+If you need a Composer-enabled PHP Class to handle your MP3 tag editing in PHP , take a look at Shubham Jain's amazing work here : 
+https://github.com/shubhamjain/PHP-ID3 
+
 Follow me if you like music-based codes..Have a Happy coding ;) 
