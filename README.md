@@ -37,6 +37,7 @@ Installation
        sudo echo -n "extension=id3.so" >> /etc/php.ini
 
   TIP1: To find your php.ini file location run : 'php -i | grep php.ini'
+  
   TIP2: To run a command as a superuser in redhat distro run: ' su -c "echo -n "extension=id3.so" >> /etc/php.ini" '
 
   5. Test installation:
