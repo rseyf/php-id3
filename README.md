@@ -11,9 +11,9 @@ Dependencies
 
  Make sure you have these packages before going to Installation of the extension
 
-  1) gcc
-  2) php
-  3) php-devel
+  1.    gcc
+  2.    php
+  3.    php-devel
 
 
 
