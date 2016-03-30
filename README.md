@@ -60,9 +60,16 @@ some of 'em:
  
 LICENSE
 -------
-See ``LICENSE`` for more informations
+See ``LICENSE`` for more informations By PHP Group
+
+##NOTE:
+This repository IS NOT A PART OF OFFICIAL PHP.NET WEBSITE. its ABSOLUTLY PERSONAL!!
+
+I have just created this repository for the personal use in my music website project and I shared it to have a document for later use on installation process. 
 
 
+It Works...
+-----------
 Now you can use php-id3 functions inside of your code .
 
 Follow me if you like music-based codes..
