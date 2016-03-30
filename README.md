@@ -57,12 +57,14 @@ some of 'em:
  
   3. And More... 
 
-License
+ 
+LICENSE
 -------
-This product includes PHP software, freely available from <http://www.php.net/software/>
-Licensed Under PHP License
-  
+See ``LICENSE`` for more informations
+
 
 Now you can use php-id3 functions inside of your code .
+
 Follow me if you like music-based codes..
+
 Happy coding ;) 
