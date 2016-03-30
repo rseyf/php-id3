@@ -70,8 +70,8 @@ I have just created this repository for the personal use in my music website pro
 
 It Works...
 -----------
-Now you can use php-id3 functions inside of your code .
+Now you can use php-id3 functions inside of your code . 
 
-Follow me if you like music-based codes..
+See PHP-id3 Functions: http://php.net/manual/en/ref.id3.php
 
-Happy coding ;) 
+Follow me if you like music-based codes..Have a Happy coding ;) 
