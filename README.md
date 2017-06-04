@@ -22,7 +22,7 @@ Installation
 
   1. Use 'git clone' to make a copy of this repository :
 
-        git clone https://github.com/RezaSeyf/php-id3.git
+        git clone https://github.com/rseyf/php-id3.git
 
   2. Change current Directory to the id3-0.2 directory :
 
